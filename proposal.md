@@ -60,7 +60,7 @@ High priority will be determined by tasks that need to be completed before other
 * Task 4: Make salad dressing (Salad; Priority: 2, 2 minutes)  
 * Task 5: Remove noodles from water (Spaghetti; Priority: 1, 1 minute)  
 * Task 6: Saute noodles (Spaghetti; Priority: 1, 4 minutes)  
-* Task 7: Toss Salad (Salal; Priority: 2, 2 minutes)  
+* Task 7: Toss Salad (Salad; Priority: 2, 2 minutes)  
 * *Salad is ready for serving*  
 * *Spaghetti is ready for serving*  
 
