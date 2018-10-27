@@ -30,10 +30,10 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 ## Problem Description
 
 I work as a kitchen manager in a restaurant with many dishes. These dishes all require different ingredients and procedures that vary in both time and difficulty.
-/nI want to create a priority queue that will be able to sort through patrons' orders and let the chefs know what tasks they should be focusing on in order to get every dish out in a timely, efficient manner. For example, one customer may order a pasta dish, while another orders a salad. It would be inefficent to waste time while the noodles are boiling, so seperate tasks should be assigned after the noodles are put to boil (e.g. chopping vegetables for the salad). Each task should be associated with the time it takes to perform, as well as the dish that requires it.
-/n/nThe program should have a Main.java file that will record what dishes are ordered, handling input and output.
-/nThe program should implement a priority queue in order to assign the order that tasks ought to be completed in.
-/nAmple testing should be done in order to determine that dishes are still being prepared correctly.
+ I want to create a priority queue that will be able to sort through patrons' orders and let the chefs know what tasks they should be focusing on in order to get every dish out in a timely, efficient manner. For example, one customer may order a pasta dish, while another orders a salad. It would be inefficent to waste time while the noodles are boiling, so seperate tasks should be assigned after the noodles are put to boil (e.g. chopping vegetables for the salad). Each task should be associated with the time it takes to perform, as well as the dish that requires it.
+  The program should have a Main.java file that will record what dishes are ordered, handling input and output.
+ The program should implement a priority queue in order to assign the order that tasks ought to be completed in.
+ Ample testing should be done in order to determine that dishes are still being prepared correctly.
 
 ## Questions to answer for Exercise #2
 
