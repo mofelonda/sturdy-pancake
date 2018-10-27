@@ -52,7 +52,7 @@ Proposal name: Kitchen Tasks by Priority.
 The program will output a dynamic listing of kitchen tasks that should be done, ordered by highest priority and time required.
 High priority will be determined by tasks that need to be completed before others (e.g. chopping vegetables is prioritized before tossing the salad). When the time associated with a priority has elapsed (# minutes - 1), the priority is reset. The program will output that a dish is ready for serving if all associated tasks have been completed. 
 
-*Example:  
+*Example:*  
 * Task 1: Boil spaghetti noodles (Priority: 1, 6 minutes)  
 * Task 2: Chop carrots (Priority: 2, 1 minute)  
 * Task 3: Chop lettuce (Priority: 2, 1 minute)  
@@ -69,7 +69,7 @@ High priority will be determined by tasks that need to be completed before other
 
 The input required is simply the dishes that have been requested, in the correct order. The program will implement a class that has all data related to cooking tasks readily available.  
 
-*Example:  
+*Example:*  
 * House Salad  
 * Spaghetti with meat sauce  
 
