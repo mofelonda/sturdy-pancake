@@ -25,7 +25,7 @@ Multiple milestone dates will be determined between the start of the assignment 
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-We should be in constant communication with each other, especially regarding difficulties with tasks and strategies used to overcome said difficulties.
+We should be in constant communication with each other, especially regarding difficulties with tasks and strategies used to overcome said difficulties.  
 All members should review finished tasks, even those not assigned to them.
 
 
