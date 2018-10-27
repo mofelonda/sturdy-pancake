@@ -33,7 +33,7 @@ I work as a kitchen manager in a restaurant with many dishes. These dishes all r
 
 I want to create a priority queue that will be able to sort through patrons' orders and let the chefs know what tasks they should be focusing on in order to get every dish out in a timely, efficient manner. For example, one customer may order a pasta dish, while another orders a salad. It would be inefficent to waste time while the noodles are boiling, so seperate tasks should be assigned after the noodles are put to boil (e.g. chopping vegetables for the salad). Each task should be associated with the time it takes to perform, as well as the dish that requires it.  
 
-The program should have a Main.java file that will record what dishes are ordered, handling input and output. 
+The program should have a Main.java file that will record what dishes are ordered, also handling input and output. 
 
 The program should implement a priority queue in order to assign the order that tasks ought to be completed in.  
 
@@ -53,14 +53,14 @@ The program will output a dynamic listing of kitchen tasks that should be done, 
 High priority will be determined by tasks that need to be completed before others (e.g. chopping vegetables is prioritized before tossing the salad). When the time associated with a priority has elapsed (# minutes - 1), the priority is reset. The program will output that a dish is ready for serving if all associated tasks have been completed. 
 
 *Example:*  
-* Task 1: Boil spaghetti noodles (Priority: 1, 6 minutes)  
-* Task 2: Chop carrots (Priority: 2, 1 minute)  
-* Task 3: Chop lettuce (Priority: 2, 1 minute)  
-* Task 4: Chop cucumbers (Priority: 2, 1 minute)  
-* Task 4: Make salad dressing (Priority: 2, 2 minutes)  
-* Task 5: Remove noodles from water (Priority: 1, 1 minute)  
-* Task 6: Saute noodles (Priority: 1, 4 minutes)  
-* Task 7: Toss Salad (Priority: 2, 2 minutes)  
+* Task 1: Boil spaghetti noodles (Spaghetti; Priority: 1, 6 minutes)  
+* Task 2: Chop carrots (Salad; Priority: 2, 1 minute)  
+* Task 3: Chop lettuce (Salad; Priority: 2, 1 minute)  
+* Task 4: Chop cucumbers (Salad; Priority: 2, 1 minute)  
+* Task 4: Make salad dressing (Salad; Priority: 2, 2 minutes)  
+* Task 5: Remove noodles from water (Spaghetti; Priority: 1, 1 minute)  
+* Task 6: Saute noodles (Spaghetti; Priority: 1, 4 minutes)  
+* Task 7: Toss Salad (Salal; Priority: 2, 2 minutes)  
 * *Salad is ready for serving*  
 * *Spaghetti is ready for serving*  
 
