@@ -7,7 +7,8 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: mofelonda      name 1: Mo Felonda
+       * GitHub username 1: mofelonda      
+       * name 1: Mo Felonda
    * When did you complete this exercise?  
        * Saturday, October 27th.
    * How long did it take your team to complete this exercise?  
