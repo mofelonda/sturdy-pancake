@@ -53,16 +53,16 @@ The program will output a dynamic listing of kitchen tasks that should be done, 
 High priority will be determined by tasks that need to be completed before others (e.g. chopping vegetables is prioritized before tossing the salad). When the time associated with a priority has elapsed (# minutes - 1), the priority is reset. The program will output that a dish is ready for serving if all associated tasks have been completed. 
 
 Example:  
-Task 1: Boil spaghetti noodles (Priority: 1, 6 minutes)  
-Task 2: Chop carrots (Priority: 2, 1 minute)  
-Task 3: Chop lettuce (Priority: 2, 1 minute)  
-Task 4: Chop cucumbers (Priority: 2, 1 minute)  
-Task 4: Make salad dressing (Priority: 2, 2 minutes)  
-Task 5: Remove noodles from water (Priority: 1, 1 minute)  
-Task 6: Saute noodles (Priority: 1, 4 minutes)  
-Task 7: Toss Salad (Priority: 2, 2 minutes)  
--Salad is ready for serving-  
--Spaghetti is ready for serving-  
+* Task 1: Boil spaghetti noodles (Priority: 1, 6 minutes)  
+* Task 2: Chop carrots (Priority: 2, 1 minute)  
+* Task 3: Chop lettuce (Priority: 2, 1 minute)  
+* Task 4: Chop cucumbers (Priority: 2, 1 minute)  
+* Task 4: Make salad dressing (Priority: 2, 2 minutes)  
+* Task 5: Remove noodles from water (Priority: 1, 1 minute)  
+* Task 6: Saute noodles (Priority: 1, 4 minutes)  
+* Task 7: Toss Salad (Priority: 2, 2 minutes)  
+* -Salad is ready for serving-  
+* -Spaghetti is ready for serving-  
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
@@ -70,8 +70,8 @@ Task 7: Toss Salad (Priority: 2, 2 minutes)
 The input required is simply the dishes that have been requested, in the correct order. The program will implement a class that has all data related to cooking tasks readily available.  
 
 Example:  
-House Salad  
-Spaghetti with meat sauce  
+* House Salad  
+* Spaghetti with meat sauce  
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
@@ -86,8 +86,8 @@ The user interface will be relatively simple, a text menu that will allow the us
 
 Name each interface or class and briefly describe its function or purpose.
 
-KitchenPriorityQueue - this queue will store the input and output the tasks by priority.  
-CookingTasks - this class has all data related to cooking tasks associated with the dishes at this restaurant.
+* KitchenPriorityQueue - this queue will store the input and output the tasks by priority.  
+* CookingTasks - this class has all data related to cooking tasks associated with the dishes at this restaurant.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
