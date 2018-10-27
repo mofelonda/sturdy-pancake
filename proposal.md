@@ -61,8 +61,8 @@ High priority will be determined by tasks that need to be completed before other
 * Task 5: Remove noodles from water (Priority: 1, 1 minute)  
 * Task 6: Saute noodles (Priority: 1, 4 minutes)  
 * Task 7: Toss Salad (Priority: 2, 2 minutes)  
-* -Salad is ready for serving-  
-* -Spaghetti is ready for serving-  
+* *Salad is ready for serving*  
+* *Spaghetti is ready for serving*  
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
