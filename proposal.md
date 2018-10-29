@@ -79,7 +79,7 @@ The input required is simply the dishes that have been requested, in the correct
 The user interface will be relatively simple, a text menu that will allow the user to enter dishes ordered, and also see all the current tasks.
 
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.  
 Name each interface or class and briefly describe its function or purpose.
 
 * KitchenPriorityQueue - this queue will store the input and output the tasks by priority.  
