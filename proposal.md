@@ -80,10 +80,6 @@ The user interface will be relatively simple, a text menu that will allow the us
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
-##TODO
-
-
 Name each interface or class and briefly describe its function or purpose.
 
 * KitchenPriorityQueue - this queue will store the input and output the tasks by priority.  
